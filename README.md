@@ -10,6 +10,8 @@ This repository contains the references audio samples from the paper 'Efficient 
 | 6 |     455 MB |        1.69 s |             [3,6,5,4,3,3] |      1,580,000 |
 | 7 |     334 MB |        0.91 s |                 [7,5,3,2] |      1,170,000 |
 
-
+“Who has never killed an hour? Not casually or without thought, but carefully: a premeditated murder of minutes. " ― Mark Z. Danielewski, House of Leaves
 
 [elephant](/7_334MB_1s_[7,5,3,2]_1170000.wav)
+
+[cat](/7_334MB_1s_[7,5,3,2]_1170000.mp3)
