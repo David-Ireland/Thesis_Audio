@@ -1,6 +1,6 @@
-##References audio samples from the paper:##
-#'Efficient Architectures for Speech Synthesis'#
-###― David Ireland###
+## References audio samples from the paper: ##
+# 'Efficient Architectures for Speech Synthesis' #
+### ― David Ireland ###
 
 To listen to the audio clone or download the repository.
 
