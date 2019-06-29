@@ -9,3 +9,7 @@ This repository contains the references audio samples from the paper 'Efficient 
 | 5 |     470 MB |        xxx  s |       [2,2,2,2,2,2,2,2] |            xxx |
 | 6 |     455 MB |        1.69 s |             [3,6,5,4,3,3] |      1,580,000 |
 | 7 |     334 MB |        0.91 s |                 [7,5,3,2] |      1,170,000 |
+
+
+
+[elephant](/7_334MB_1s_[7,5,3,2]_1170000.wav)
