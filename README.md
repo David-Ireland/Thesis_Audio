@@ -1,3 +1,4 @@
+This repository contains the references audio samples from the paper 'Efficient Architectures for Speech Synthesis' - by David Ireland
 
 | # | Model Size | Synthesis Time|             Kernel Size   | Training Iters |
 | - |:----------:|:-------------:|:-------------------------:| --------------:|
@@ -6,5 +7,5 @@
 | 3 |     518 MB |        2.34 s |           [4,6,8,5,4,3,2] |      1,270,000 |
 | 4 |     518 MB |        1.93 s |           [9,6,5,4,3,3,2] |        810,000 |
 | 5 |     xxx MB |        xxx  s |                       xxx |            xxx |
-| 6 |     433 MB |        1.69 s |             [3,6,5,4,3,3] |      1,580,000 |
+| 6 |     455 MB |        1.69 s |             [3,6,5,4,3,3] |      1,580,000 |
 | 7 |     319 MB |        0.91 s |                 [7,5,3,2] |      1,170,000 |
