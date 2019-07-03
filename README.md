@@ -1,7 +1,8 @@
-## References audio samples from the paper: ##
-# 'Efficient Architectures for Speech Synthesis' #
+# Efficient Architectures for Speech Synthesis #
+
 ### ― David Ireland ###
 
+## References audio samples: ##
 To listen to the audio clone or download the repository.
 
 | # | Model Size | Synthesis Time|             Kernel Size   | Training Iters |
